@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "tabuSearch"]
+	path = tabuSearch
+	url = https://gitlab.com/domijank/tabusearch
+	shallow = true
+	registered = true
